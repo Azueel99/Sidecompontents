@@ -1,4 +1,5 @@
 import React from "react";
+import Counter from "../cliente/page";
 
 export const metadata = {
   title: "Contador De clicks",
